@@ -1,0 +1,26 @@
+section {
+    text-align: center;
+    background-color: rgb(158, 158, 158);
+    width: 800px;
+    height: 800px;
+}
+
+#one {
+    background-color: rgb(104, 104, 104);
+    height: 15%;
+    width: 100%;
+}
+
+#two {
+    margin-left: 10%;
+    background-color: white;
+    height: 75%;
+    width: 80%;
+}
+
+#three {
+    margin-left: 10%;
+    background-color: black;
+    height: 10%;
+    width: 80%;
+}

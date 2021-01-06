@@ -1,0 +1,52 @@
+section {
+    height: 700px;
+    width: 600px;
+}
+
+#one {
+    height: 100px;
+    width: 100%;
+    background-color: grey;
+}
+
+#two {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 100px;
+    width: 100%;
+    margin-left: auto; 
+    margin-right: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+#three {
+    height: 100px;
+    width: 100%;
+    background-color: blue;
+}
+
+#four {
+    height: 100px;
+    width: 100%;
+    background-color: teal;
+}
+
+#five {
+    height: 100px;
+    width: 100%;
+    background-color: green;
+}
+
+#six {
+    height: 100px;
+    width: 100%;
+    background-color: yellowgreen;
+}
+
+#square {
+    margin: 10px;
+    background-color: blue;
+    width: 90px;
+    height: 90px;
+}
